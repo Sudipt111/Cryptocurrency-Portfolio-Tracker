@@ -7,8 +7,8 @@ A simple and responsive web application to track real-time cryptocurrency prices
 
 ## 📸 Preview
 
-#Homepage
-homepage/homepage.png
+[Homepage]|
+(homepage/homepage.png)
 
 ## 🚀 Features
 
